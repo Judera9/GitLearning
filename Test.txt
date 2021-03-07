@@ -1,0 +1,3 @@
+Justnow I wanted to add a new txt file, but the suffix is TXT, which make me very upset.
+
+I use the regedit to correct it, now it is txt again.
