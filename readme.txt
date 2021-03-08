@@ -12,4 +12,4 @@ Now I give an unadded change.
 
 Now I am studying branch operation, test for new branch "dev".
 
-Now I add a new line for master, conflict occurs.
+This time I will test for a branch named feature1. Now I add a new line for master, conflict occurs, but solved now.
