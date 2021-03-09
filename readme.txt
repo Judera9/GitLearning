@@ -13,5 +13,3 @@ Now I give an unadded change.
 Now I am studying branch operation, test for new branch "dev".
 
 This time I will test for a branch named feature1. Now I add a new line for master, conflict occurs, but solved now.
-
-Here is an bug.
