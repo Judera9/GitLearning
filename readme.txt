@@ -17,3 +17,5 @@ This time I will test for a branch named feature1. Now I add a new line for mast
 I am developing the project, being unaware of the bug.
 
 Now, I know there is a bug commited in the master branch.
+
+摆摆摆摆~
